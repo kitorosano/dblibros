@@ -1,7 +1,7 @@
 {
   "libros": [
     {
-      "lib_id": 1,
+      "id": 1,
       "lib_isbn": "978-8490353787",
       "lib_titulo": "Introducción a la programación con Python",
       "lib_descripcion": "Este libro es una introducción a la programación en Python, un lenguaje de programación muy popular y poderoso que se utiliza en una gran variedad de campos, desde la informática hasta la biología.",
@@ -20,7 +20,7 @@
       "lib_puntuacion": 4.7
     },
     {
-      "lib_id": 2,
+      "id": 2,
       "lib_isbn": "978-8429174243",
       "lib_titulo": "Introducción a la inteligencia artificial",
       "lib_descripcion": "Este libro es una introducción a la inteligencia artificial, una disciplina que busca crear máquinas que puedan realizar tareas que requieren inteligencia humana, como el reconocimiento de imágenes o la traducción automática.",
@@ -40,7 +40,7 @@
     },
 
     {
-      "lib_id": 3,
+      "id": 3,
       "lib_isbn": "978-987-7393-33-2",
       "lib_titulo": "Cálculo Diferencial e Integral: Una introducción",
       "lib_descripcion": "Este libro ofrece una introducción al cálculo diferencial e integral, una rama fundamental de las matemáticas que se enfoca en el estudio de las funciones y sus propiedades. Incluye ejemplos y ejercicios prácticos para que el lector pueda aplicar lo aprendido en situaciones reales.",
@@ -60,7 +60,7 @@
     },
 
     {
-      "lib_id": 4,
+      "id": 4,
       "lib_isbn": "978-0321570559",
       "lib_titulo": "Discrete and Combinatorial Mathematics: An Applied Introduction",
       "lib_descripcion": "Este libro es un texto de matemáticas discretas diseñado para estudiantes de ciencias de la computación, matemáticas y tecnología de la información. El autor, Ralph P. Grimaldi, cubre una amplia variedad de temas en matemáticas discretas, incluyendo conjuntos, funciones, teoría de grafos, combinatoria, teoría de números, álgebra booleana y lógica proposicional. El enfoque aplicado de este libro lo hace ideal para cursos introductorios en matemáticas discretas para estudiantes de ciencias de la computación y tecnología de la información.",
@@ -79,7 +79,7 @@
       "lib_puntuacion": 4.5
     },
     {
-      "lib_id": 5,
+      "id": 5,
       "lib_isbn": "978-1491912058",
       "lib_titulo": "Python Cookbook",
       "lib_descripcion": "Este libro presenta una colección de recetas para programación en Python, abarcando desde temas básicos hasta técnicas avanzadas.",
@@ -98,7 +98,7 @@
       "lib_puntuacion": 4.5
     },
     {
-      "lib_id": 6,
+      "id": 6,
       "lib_isbn": "978-1617296086",
       "lib_titulo": "Deep Learning with Python",
       "lib_descripcion": "Este libro proporciona una introducción a la inteligencia artificial y el aprendizaje profundo (deep learning) utilizando Python, con ejemplos prácticos y explicaciones claras.",
@@ -118,7 +118,7 @@
     },
 
     {
-      "lib_id": 7,
+      "id": 7,
       "lib_isbn": "978-0132354809",
       "lib_titulo": "Introduction to Logic Design",
       "lib_descripcion": "Este libro es una introducción a los fundamentos de la lógica de diseño, incluyendo teoría de circuitos y sistemas digitales. Cubre los conceptos básicos de la lógica y su aplicación en la construcción de sistemas digitales y computadoras.",
@@ -138,7 +138,7 @@
     },
 
     {
-      "lib_id": 8,
+      "id": 8,
       "lib_isbn": "978-0134443701",
       "lib_titulo": "Infrastructure as Code: Managing Servers in the Cloud",
       "lib_descripcion": "Este libro presenta una guía completa sobre la infraestructura como código, una metodología que permite gestionar los servidores en la nube de manera automatizada y reproducible. Cubre las mejores prácticas y herramientas necesarias para implementar una infraestructura automatizada y escalable.",
@@ -158,7 +158,7 @@
     },
 
     {
-      "lib_id": 9,
+      "id": 9,
       "lib_isbn": "978-0134175393",
       "lib_titulo": "Computer Networking: A Top-Down Approach",
       "lib_descripcion": "Este libro es una guía completa de redes de computadoras, desde los fundamentos hasta las tecnologías avanzadas, utilizando un enfoque de arriba hacia abajo.",
@@ -178,7 +178,7 @@
     },
 
     {
-      "lib_id": 10,
+      "id": 10,
       "lib_isbn": "978-1119498573",
       "lib_titulo": "Probability and Statistics for Data Science",
       "lib_descripcion": "Este libro es una introducción completa a la probabilidad y la estadística para los científicos de datos, con énfasis en las aplicaciones prácticas.",
@@ -197,7 +197,7 @@
       "lib_puntuacion": 4.1
     },
     {
-    "lib_id": 11,
+    "id": 11,
     "lib_isbn": "978-9585477955",
     "lib_titulo": "Comunicación efectiva: la clave para el éxito en los negocios",
     "lib_descripcion": "Este libro enseña las técnicas y estrategias de comunicación más efectivas para alcanzar el éxito en los negocios, como persuasión, negociación, presentación y gestión de conflictos.",
@@ -216,7 +216,7 @@
     "lib_puntuacion": 4.5
     },
   {
-    "lib_id": 12,
+    "id": 12,
     "lib_isbn": "978-1119603061",
     "lib_titulo": "The Leader's Bookshelf: 50 Books That Make Us Better Leaders",
     "lib_descripcion": "Este libro ofrece una lista de 50 libros esenciales para el liderazgo, incluyendo biografías de líderes influyentes, estudios sobre estrategia y organización, y guías prácticas para el liderazgo efectivo.",
@@ -235,7 +235,7 @@
     "lib_puntuacion": 4.8
    },
    {
-    "lib_id": 13,
+    "id": 13,
     "lib_isbn": "978-0137059678",
     "lib_titulo": "Software Engineering: Theory and Practice",
     "lib_descripcion": "Este libro es una guía completa y actualizada sobre la ingeniería de software, desde la teoría hasta la práctica, con un enfoque en la creación de sistemas de software de alta calidad y confiabilidad.",
@@ -254,7 +254,7 @@
     "lib_puntuacion": 4.2
   },
   {
-    "lib_id": 14,
+    "id": 14,
     "lib_isbn": "978-0321997891",
     "lib_titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
     "lib_descripcion": "Este libro es una guía práctica y accesible sobre cómo escribir software de alta calidad y fácilmente mantenible, a través de una serie de prácticas de programación ágil y buenas prácticas de diseño de software.",
@@ -273,7 +273,7 @@
     "lib_puntuacion": 4.6
   },
   {
-    "lib_id": 15,
+    "id": 15,
     "lib_isbn": "978-0201633610",
     "lib_titulo": "Design Patterns: Elements of Reusable Object-Oriented Software",
     "lib_descripcion": "Este libro es una guía clásica sobre patrones de diseño, escrita por cuatro expertos en el tema. Los patrones de diseño son soluciones probadas y comprobadas para problemas comunes en el desarrollo de software.",
@@ -292,7 +292,7 @@
     "lib_puntuacion": 4.5
   },
   {
-    "lib_id": 16,
+    "id": 16,
     "lib_isbn": "978-0131489066",
     "lib_titulo": "UML Distilled: A Brief Guide to the Standard Object Modeling Language",
     "lib_descripcion": "Este libro es una introducción clara y concisa al Lenguaje de Modelado Unificado (UML), una herramienta de modelado estándar utilizada en ingeniería de software.",
@@ -311,7 +311,7 @@
     "lib_puntuacion": 4.4
   },
   {
-    "lib_id": 17,
+    "id": 17,
     "lib_isbn": "978-1119518494",
     "lib_titulo": "Financial Accounting: Tools for Business Decision Making",
     "lib_descripcion": "Este libro es una introducción completa a la contabilidad financiera, que presenta las herramientas necesarias para tomar decisiones empresariales informadas basadas en datos financieros.",
@@ -330,7 +330,7 @@
     "lib_puntuacion": 4.3
   },
   {
-    "lib_id": 18,
+    "id": 18,
     "lib_isbn": "978-1491918661",
     "lib_titulo": "Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5",
     "lib_descripcion": "Este libro es una guía práctica para aprender a programar en PHP, MySQL y JavaScript, y cómo utilizar estas tecnologías para crear aplicaciones web dinámicas y atractivas.",
@@ -349,7 +349,7 @@
     "lib_puntuacion": 4.6
   },
   {
-    "lib_id": 19,
+    "id": 19,
     "lib_isbn": "978-0132930773",
     "lib_titulo": "Designing Rich Applications with Adobe Flex and Adobe AIR",
     "lib_descripcion": "Este libro presenta un enfoque práctico para la creación de aplicaciones de Internet ricas con Adobe Flex y Adobe AIR. Los lectores aprenderán a diseñar interfaces de usuario atractivas, integrar datos y crear aplicaciones altamente interactivas.",
@@ -368,7 +368,7 @@
     "lib_puntuacion": 4.2
   },
   {
-    "lib_id": 20,
+    "id": 20,
     "lib_isbn": "978-0134978926",
     "lib_titulo": "Unity in Action: Multiplatform Game Development in C#",
     "lib_descripcion": "Este libro te guiará a través del proceso de desarrollo de juegos utilizando Unity, desde la creación de escenarios y personajes hasta la implementación de la lógica del juego en C#. Aprenderás a utilizar herramientas y técnicas para crear juegos multiplataforma para PC, consolas y dispositivos móviles.",

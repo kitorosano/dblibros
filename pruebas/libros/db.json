@@ -1,45 +1,6 @@
 {
   "libros": [
     {
-      "id": 1,
-      "lib_isbn": "978-8490353787",
-      "lib_titulo": "Introducción a la programación con Python",
-      "lib_descripcion": "Este libro es una introducción a la programación en Python, un lenguaje de programación muy popular y poderoso que se utiliza en una gran variedad de campos, desde la informática hasta la biología.",
-      "lib_imagen": "https://m.media-amazon.com/images/I/41QZyv4q+GL._SY346_.jpg",
-      "lib_categoria": 1,
-      "lib_sub_categoria": 3,
-      "lib_url": "https://www.amazon.com/-/es/Nilo-Ney-Coutinho-Menezes-ebook/dp/B072YX6K8R",
-      "lib_stock": 10,
-      "lib_autores": "John Guttag",
-      "lib_edicion": "3",
-      "lib_fecha_lanzamiento": "2015-07-28",
-      "lib_novedades": "N",
-      "lib_idioma": "Español",
-      "lib_disponible": "N",
-      "lib_vigente": "S",
-      "lib_puntuacion": 4.7
-    },
-    {
-      "id": 2,
-      "lib_isbn": "978-8429174243",
-      "lib_titulo": "Introducción a la inteligencia artificial",
-      "lib_descripcion": "Este libro es una introducción a la inteligencia artificial, una disciplina que busca crear máquinas que puedan realizar tareas que requieren inteligencia humana, como el reconocimiento de imágenes o la traducción automática.",
-      "lib_imagen": "https://m.media-amazon.com/images/I/51z0PXxf8WL.jpg",
-      "lib_categoria": 1,
-      "lib_sub_categoria": 5,
-      "lib_url": "https://www.amazon.es/INTRODUCCION-INTELIGENCIA-ARTIFICIAL-HERRAMMIENTAS-DESARROLLO-ebook/dp/B08WHXRYMZ",
-      "lib_stock": 5,
-      "lib_autores": "Wolfgang Ertel",
-      "lib_edicion": "2",
-      "lib_fecha_lanzamiento": "2019-06-01",
-      "lib_novedades": "S",
-      "lib_idioma": "Español",
-      "lib_disponible": "S",
-      "lib_vigente": "S",
-      "lib_puntuacion": 4.4
-    },
-
-    {
       "id": 3,
       "lib_isbn": "978-987-7393-33-2",
       "lib_titulo": "Cálculo Diferencial e Integral: Una introducción",
@@ -58,7 +19,6 @@
       "lib_vigente": "S",
       "lib_puntuacion": 4.7
     },
-
     {
       "id": 4,
       "lib_isbn": "978-0321570559",
@@ -116,7 +76,6 @@
       "lib_vigente": "S",
       "lib_puntuacion": 4.4
     },
-
     {
       "id": 7,
       "lib_isbn": "978-0132354809",
@@ -136,7 +95,6 @@
       "lib_vigente": "S",
       "lib_puntuacion": 4.4
     },
-
     {
       "id": 8,
       "lib_isbn": "978-0134443701",
@@ -156,7 +114,6 @@
       "lib_vigente": "S",
       "lib_puntuacion": 4.6
     },
-
     {
       "id": 9,
       "lib_isbn": "978-0134175393",
@@ -175,9 +132,25 @@
       "lib_disponible": "S",
       "lib_vigente": "S",
       "lib_puntuacion": 4.5
+    },
+    {
+      "id": "30",
+      "lib_isbn": null,
+      "lib_titulo": "fghfg",
+      "lib_descripcion": "fghfg",
+      "lib_imagen": "fghf",
+      "lib_categoria": "fgh",
+      "lib_sub_categoria": "fgh",
+      "lib_url": "fgh",
+      "lib_stock": "fgh",
+      "lib_autores": "fgh",
+      "lib_edicion": "fgh",
+      "lib_fecha_lanzamiento": "fgh",
+      "lib_novedades": "1",
+      "lib_idioma": "h",
+      "lib_disponible": "0",
+      "lib_vigente": "0",
+      "lib_puntuacion": "4"
     }
-   
-  
   ]
-  
 }
