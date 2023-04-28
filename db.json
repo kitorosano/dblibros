@@ -391,16 +391,34 @@
   ],
   "users": [
     {
-      "id": 1,
-      "name": "John Doe",
-      "username": "johndoe",
-      "email": "johndoe@example.com"
-    },
-    {
-      "id": 2,
-      "name": "Jane Smith",
-      "username": "janesmith",
-      "email": "janesmith@example.com"
-    }
+      "usu_id": 1,
+      "id": "12345678",
+      "usu_nombre": "Admin",
+      "usu_apellido": "Admin",
+      "usu_mail": "admin@example.com",
+      "usu_clave": "admin",
+      "usu_telefono": "1122334455",
+      "usu_activo": "S",
+      "usu_tipo_usuario": "Administrador",
+      "usu_habilitado": "S",
+      "usu_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiaWF0IjoxNjIyNjA5NTgxLCJleHAiOjE2MjI2MTMxODF9.H4v9D21MdrdN81FYIZeI-w5KjP5oRcOlf5I5LTHy-dc",
+      "authKey" : "test100key"
+      },
+      {
+        "usu_id": 2,
+        "id": "40000005",
+        "usu_nombre": "Matias",
+        "usu_apellido": "Fernandez",
+        "usu_mail": "estudiante@utec.com",
+        "usu_clave": "estudiante",
+        "usu_telefono": "1122334456",
+        "usu_activo": "S",
+        "usu_tipo_usuario": "Estudiante",
+        "usu_habilitado": "S",
+        "usu_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiFWF0IjoxNjIyNjA5NTgxLCJleHAiOjE2MjI2MTMxODF9.H4v9D21MdrdN81FYIZeI-w5KjP5oRcOlf5I5LTHy-dB",
+        "authKey" : "test101key"
+
+        }
+    
   ]
 }
