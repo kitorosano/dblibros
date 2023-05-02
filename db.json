@@ -418,7 +418,91 @@
         "usu_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiFWF0IjoxNjIyNjA5NTgxLCJleHAiOjE2MjI2MTMxODF9.H4v9D21MdrdN81FYIZeI-w5KjP5oRcOlf5I5LTHy-dB",
         "authKey" : "test101key"
 
-        }
+      }
+      
     
-  ]
+  ],
+  "categorias": [
+    {
+      "cat_id": 1,
+      "cat_nombre": "Programacion",
+      "cat_vigente": "S"
+    },
+    {
+      "cat_id": 2,
+      "cat_nombre": "Matematica",
+      "cat_vigente": "S"
+    },
+    {
+      "cat_id": 3,
+      "cat_nombre": "Lengua",
+      "cat_vigente": "S"
+    },
+    {
+      "cat_id": 4,
+      "cat_nombre": "Gramatica",
+      "cat_vigente": "S"
+    },
+    {
+      "cat_id": 5,
+      "cat_nombre": "Economia",
+      "cat_vigente": "S"
+    },
+    {
+      "cat_id": 6,
+      "cat_nombre": "Sociologia",
+      "cat_vigente": "S"
+    }
+  ],
+  "sub_categorias": [
+    {
+      "subcat_id": 1,
+      "subcat_cat_id": 1,
+      "subcat_nombre": "Java",
+      "subcat_vigente": "S"
+    },
+    {
+      "subcat_id": 2,
+      "subcat_cat_id": 1,
+      "subcat_nombre": "PHP",
+      "subcat_vigente": "S"
+    },
+    {
+      "subcat_id": 3,
+      "subcat_cat_id": 2,
+      "subcat_nombre": "Discreta",
+      "subcat_vigente": "S"
+    },
+    {
+      "subcat_id": 4,
+      "subcat_cat_id": 5,
+      "subcat_nombre": "Inversion",
+      "subcat_vigente": "S"
+    },
+    {
+      "subcat_id": 5,
+      "subcat_cat_id": 3,
+      "subcat_nombre": "Dialectos",
+      "subcat_vigente": "S"
+    }
+  ],
+  "sugerencias": [
+    {
+    "sug_id":1,
+    "sug_sugerencia":"Agregar pagina de ayuda",
+    "sug_vigente":"S",
+    "sug_idusu":1
+    },
+  {
+    "sug_id":2,
+    "sug_sugerencia":"Agregar documentacion a pagina",
+    "sug_vigente":"S",
+    "sug_idusu":1
+  },
+  {
+    "sug_id":3,
+    "sug_sugerencia":"Agregar acceso a libro en linea",
+    "sug_vigente":"S",
+    "sug_idusu":3
+  }]
 }
