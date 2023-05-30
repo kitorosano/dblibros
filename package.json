@@ -1,0 +1,24 @@
+{
+  "name": "dblibros",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitorosano/dbPruebasJson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitorosano/dbPruebasJson/issues"
+  },
+  "homepage": "https://github.com/kitorosano/dbPruebasJson#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
